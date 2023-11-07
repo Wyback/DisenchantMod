@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model" : "disenchantmod:block/disenchant_table"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "textures": {
+    "disenchant_table_top": "disenchantmod:block/disenchant_table_top",
+    "disenchant_table_bottom": "disenchantmod:block/disenchant_table_bottom",
+    "disenchant_table_side": "disenchantmod:block/disenchant_table_side"
+  },
+  "elements": [{
+    "from": [0, 0, 0],
+    "to": [16, 12, 16],
+    "faces": {
+      "down": {
+        "texture": "#disenchant_table_bottom"
+      },
+      "up": {
+        "texture": "#disenchant_table_top"
+      },
+      "north": {
+        "texture": "#disenchant_table_side"
+      },
+      "south": {
+        "texture": "#disenchant_table_side"
+      },
+      "west": {
+        "texture": "#disenchant_table_side"
+      },
+      "east": {
+        "texture": "#disenchant_table_side"
+      }
+    }
+  }]
+}
